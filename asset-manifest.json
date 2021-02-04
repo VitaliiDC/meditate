@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/meditate/static/css/main.948d0084.chunk.css",
+    "main.js": "/meditate/static/js/main.b6a92fa4.chunk.js",
+    "main.js.map": "/meditate/static/js/main.b6a92fa4.chunk.js.map",
+    "runtime-main.js": "/meditate/static/js/runtime-main.975aebb5.js",
+    "runtime-main.js.map": "/meditate/static/js/runtime-main.975aebb5.js.map",
+    "static/js/2.7e490154.chunk.js": "/meditate/static/js/2.7e490154.chunk.js",
+    "static/js/2.7e490154.chunk.js.map": "/meditate/static/js/2.7e490154.chunk.js.map",
+    "static/js/3.767a327f.chunk.js": "/meditate/static/js/3.767a327f.chunk.js",
+    "static/js/3.767a327f.chunk.js.map": "/meditate/static/js/3.767a327f.chunk.js.map",
+    "index.html": "/meditate/index.html",
+    "static/css/main.948d0084.chunk.css.map": "/meditate/static/css/main.948d0084.chunk.css.map",
+    "static/js/2.7e490154.chunk.js.LICENSE.txt": "/meditate/static/js/2.7e490154.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/meditate/static/media/elipse-2.37773965.svg",
+    "static/media/rain.7ef30141.mp3": "/meditate/static/media/rain.7ef30141.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.975aebb5.js",
+    "static/js/2.7e490154.chunk.js",
+    "static/css/main.948d0084.chunk.css",
+    "static/js/main.b6a92fa4.chunk.js"
+  ]
+}
